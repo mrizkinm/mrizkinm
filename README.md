@@ -25,14 +25,6 @@ With experience in both frontend and backend development, I am proficient in var
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrizkinm&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrizkinm&layout=compact&theme=radical" alt="Top Languages" /> -->
-</p>
-
----
-
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-rizki-0998/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
